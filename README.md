@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 ### Стек: 
-JavaScript ECMAScript 6
+![image](https://user-images.githubusercontent.com/70974163/111863314-faf81380-896b-11eb-8d44-f3fc12a2255f.png)
 
 ### Моя статистика: 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-sarkisyan&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
