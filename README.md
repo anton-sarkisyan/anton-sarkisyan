@@ -10,5 +10,5 @@
 - ⚡ Fun fact: ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarkisyan-anton&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkisyan-anton=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-sarkisyan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-sarkisyan=compact)](https://github.com/anuraghazra/github-readme-stats)
