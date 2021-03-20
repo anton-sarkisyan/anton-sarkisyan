@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 ### Стек: 
-![image](https://user-images.githubusercontent.com/70974163/111863386-562a0600-896c-11eb-9385-f82bb183cb35.png height="48" width="48")
+<img src="https://user-images.githubusercontent.com/70974163/111863386-562a0600-896c-11eb-9385-f82bb183cb35.png" height="48" width="48">
 
 
 ### Моя статистика: 
