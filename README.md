@@ -9,6 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Стек: 
+JavaScript ECMAScript 6
+
 ### Моя статистика: 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-sarkisyan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-sarkisyan&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-sarkisyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
